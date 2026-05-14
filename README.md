@@ -11,23 +11,27 @@ Die Webseite dient als persönliches Online-CV und präsentiert:
 - Qualifikationen
 - Kontaktinformationen
 
-## Technologien
+## Abgeschlossene Schritte
 
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
+- GitHub Repository erstellt
+- Projektstruktur erstellt
+- HTML Grundstruktur aufgebaut
+- CV Inhalte integriert
+- Profilbild eingebunden
+- Responsive CSS Layout erstellt
+- Navigation und Sections umgesetzt
 
-## Ziele
+## Aktueller Stand
 
-- Responsive Webseite
-- Saubere HTML/CSS-Struktur
-- Modernes Design
-- Professioneller Entwicklungsprozess mit Git
+Die Webseite enthält aktuell:
+- Startseite
+- Profilbereich
+- Qualifikationen
+- Arbeitserfahrung
+- Ausbildung
+- Interessen
+- Kontaktbereich
 
-## Projektstatus
-
-Aktuell in Entwicklung.
 
 ## Autor
 
