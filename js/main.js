@@ -65,7 +65,7 @@ function checkWinner() {
     ) {
 
       document.getElementById("game-status").textContent =
-        "Spieler " + board[a] + " hat gewonnen";
+        "Spieler " + board[a] + " ist der Gewinner!";
 
       gameActive = false;
 
