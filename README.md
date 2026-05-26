@@ -3,7 +3,11 @@ https://lg9595.github.io/cv-lasergedik/
 
 ## Projektbeschreibung
 
-Dies ist eine moderne CV- und Portfolio-Webseite im Rahmen der Modularbeit im Web Programming Basics.
+In diesem Projekt habe ich eine moderne und responsive CV-Webseite über mich erstellt.  
+Die Webseite wurde mit HTML, CSS und JavaScript umgesetzt und enthält verschiedene Bereiche wie Profil, Qualifikationen, Arbeitserfahrung, Ausbildung und Kontakt.
+
+Zusätzlich wurde ein Passwortschutz sowie ein kleines JavaScript Tic Tac Toe Spiel integriert.  
+Das Projekt wurde mit Git und GitHub versioniert und über GitHub Pages online veröffentlicht.
 
 Die Webseite dient als persönliches Online-CV und präsentiert:
 - Profil
