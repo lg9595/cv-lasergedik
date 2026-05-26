@@ -32,6 +32,11 @@ Die Webseite enthält aktuell:
 - Interessen
 - Kontaktbereich
 
+## Die Webseite wurde für folgende Geräte optimiert:
+
+- Desktop
+- Tablet
+- Mobile
 
 ## Autor
 
