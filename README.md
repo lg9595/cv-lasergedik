@@ -55,4 +55,5 @@ Die Webseite enthält aktuell:
 
 ## Autor
 
-Laser Gedik
+Laser Gedik 
+Informatiker Systemtechniker HF
