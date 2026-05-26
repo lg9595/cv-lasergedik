@@ -21,6 +21,13 @@ Die Webseite dient als persönliches Online-CV und präsentiert:
 - Responsive CSS Layout erstellt
 - Navigation und Sections umgesetzt
 
+## Die Webseite wurde für folgende Geräte optimiert:
+
+- Desktop
+- Tablet
+- Mobile
+
+
 ## Aktueller Stand
 
 Die Webseite enthält aktuell:
@@ -31,12 +38,10 @@ Die Webseite enthält aktuell:
 - Ausbildung
 - Interessen
 - Kontaktbereich
+- Passwortgeschützte Login-Seite erstellt
+- JavaScript Passwortprüfung integriert
+- Weiterleitung zur CV-Seite umgesetzt
 
-## Die Webseite wurde für folgende Geräte optimiert:
-
-- Desktop
-- Tablet
-- Mobile
 
 ## Autor
 
