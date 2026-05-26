@@ -20,6 +20,10 @@ Die Webseite dient als persönliches Online-CV und präsentiert:
 - Profilbild eingebunden
 - Responsive CSS Layout erstellt
 - Navigation und Sections umgesetzt
+- Tic Tac Toe Spiel mit JavaScript integriert
+- Gewinnerprüfung umgesetzt
+- Neustart Funktion erstellt
+- Klick Events mit JavaScript umgesetzt
 
 ## Die Webseite wurde für folgende Geräte optimiert:
 

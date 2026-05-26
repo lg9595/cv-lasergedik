@@ -350,3 +350,70 @@ footer {
 #login-message {
   margin-top: 15px;
 }
+/* Tic Tac Toe */
+
+.game-container {
+  text-align: center;
+}
+
+.game-status {
+  margin-bottom: 20px;
+
+  font-size: 18px;
+
+  color: #3ddc84;
+}
+
+.game-board {
+  display: grid;
+
+  grid-template-columns: repeat(3, 100px);
+
+  gap: 10px;
+
+  justify-content: center;
+
+  margin-bottom: 20px;
+}
+
+.cell {
+  width: 100px;
+  height: 100px;
+
+  background-color: #1a1a1a;
+
+  border-radius: 10px;
+
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+
+  font-size: 40px;
+
+  cursor: pointer;
+}
+
+.cell:hover {
+  background-color: #222;
+}
+
+.reset-btn {
+  padding: 12px 20px;
+
+  border: none;
+
+  border-radius: 6px;
+
+  background-color: #3ddc84;
+
+  color: #111;
+
+  font-weight: bold;
+
+  cursor: pointer;
+}
+
+.reset-btn:hover {
+  opacity: 0.9;
+}
