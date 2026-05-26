@@ -115,7 +115,7 @@ function checkPassword() {
 
   if (password === "HFTM2026") {
 
-    window.location.href = "index.html";
+    window.location.href = "cv.html";
 
   } else {
 
