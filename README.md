@@ -1,5 +1,6 @@
 # CV Webseite – Laser Gedik
 https://lg9595.github.io/cv-lasergedik/
+
 ## Projektbeschreibung
 
 Dies ist eine moderne CV- und Portfolio-Webseite im Rahmen der Modularbeit im Web Programming Basics.
@@ -24,6 +25,7 @@ Die Webseite dient als persönliches Online-CV und präsentiert:
 - Gewinnerprüfung umgesetzt
 - Neustart Funktion erstellt
 - Klick Events mit JavaScript umgesetzt
+- Link wurde erstellt für die Webseite https://lg9595.github.io/cv-lasergedik/
 
 ## Die Webseite wurde für folgende Geräte optimiert:
 
