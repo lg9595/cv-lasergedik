@@ -9,6 +9,9 @@ Die Webseite wurde mit HTML, CSS und JavaScript umgesetzt und enthält verschied
 Zusätzlich wurde ein Passwortschutz sowie ein kleines JavaScript Tic Tac Toe Spiel integriert.  
 Das Projekt wurde mit Git und GitHub versioniert und über GitHub Pages online veröffentlicht.
 
+Gemäss Kapitel 13.1 des Unterrichtsskripts ist ein echter Passwortschutz mit rein clientseitigen Technologien nicht möglich. Aus diesem Grund wurde die im Skript beschriebene Lösung umgesetzt, bei der nach erfolgreicher Passworteingabe auf die geschützte Seite weitergeleitet wird.
+
+
 Die Webseite dient als persönliches Online-CV und präsentiert:
 - Profil
 - Arbeitserfahrung
