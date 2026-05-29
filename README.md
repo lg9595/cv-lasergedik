@@ -1,5 +1,5 @@
 # CV Webseite – Laser Gedik
-https://lg9595.github.io/cv-lasergedik/
+https://lg9595.github.io/cv-lasergedik/ PW: HFTM2026
 
 ## Projektbeschreibung
 
